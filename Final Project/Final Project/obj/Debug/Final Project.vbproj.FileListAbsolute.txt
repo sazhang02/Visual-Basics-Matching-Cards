@@ -1,0 +1,13 @@
+K:\VB2\Final Project\Final Project\bin\Debug\Final Project.exe.config
+K:\VB2\Final Project\Final Project\bin\Debug\Final Project.exe
+K:\VB2\Final Project\Final Project\bin\Debug\Final Project.pdb
+K:\VB2\Final Project\Final Project\bin\Debug\Final Project.xml
+K:\VB2\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+K:\VB2\Final Project\Final Project\obj\Debug\Final_Project.Resources.resources
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.vbproj.GenerateResource.Cache
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.exe
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.xml
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.pdb
+K:\VB2\Final Project\Final Project\obj\Debug\Final_Project.Form2.resources
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.vbprojAssemblyReference.cache
+K:\VB2\Final Project\Final Project\obj\Debug\Final Project.vbproj.CoreCompileInputs.cache
